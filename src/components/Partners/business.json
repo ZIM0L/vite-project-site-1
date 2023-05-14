@@ -1,0 +1,35 @@
+{
+  "Partners": [
+    {
+      "name": "AquaSoft",
+      "description": "software company that specializes in developing water management solutions for cities and businesses, ensuring efficient use and conservation of this precious resource."
+    },
+    {
+      "name": "GreenGenius",
+      "description": "An eco-friendly cleaning company that uses natural products to clean homes and businesses, leaving a clean and healthy environment for everyone."
+    },
+    {
+      "name": "FidoTech",
+      "description": "A technology company that creates smart devices for pets, allowing owners to remotely monitor their pet's well-being and health, and interact with them while away from home."
+    },
+    {
+      "name": "FitFuel",
+      "description": "A health and wellness company that provides nutritious and delicious meal plans to help people reach their fitness goals, while also promoting a balanced and sustainable lifestyle."
+    },
+    {
+      "name": "BrightBox",
+      "description": "A packaging company that specializes in creating sustainable and eye-catching packaging solutions for businesses, enhancing the customer experience while reducing the environmental impact."
+    },
+    {
+      "name": "HappyTails",
+      "description": "A pet grooming company that provides pampering and grooming services for dogs and cats, leaving them looking and feeling their best."
+    },
+    {
+      "name": "CloudPeak",
+      "description": "A cloud computing company that provides scalable and secure infrastructure solutions for businesses, ensuring high availability and performance for their applications and data."
+    },
+    {
+      "name": "ZenHive",
+      "description": "A mindfulness and meditation app that helps people reduce stress and anxiety, improve focus and productivity, and cultivate a more peaceful and balanced life."
+    }]
+}
