@@ -1,4 +1,4 @@
-import { useState } from "react";
+
 import { Container__Black__Up } from "./Black_Segment/Container__Black--Up.styled";
 import bikeVideo_1 from "./Black_Segment/video/Bike_1.mp4"
 
