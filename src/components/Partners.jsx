@@ -85,7 +85,7 @@ function Partners() {
                 })}         
         </Slider>
         </Partners__Container>  
-                <Hr_Figure margin={10}>
+                <Hr_Figure margin={0}>
                 <hr />
                     <div>
                         <span>/3</span>

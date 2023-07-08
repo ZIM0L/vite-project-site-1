@@ -13,11 +13,11 @@ function Navbar() {
 
         function handleScroll() {
           const scrolled = document.documentElement.scrollTop;
-          if (scrolled >= 499 ) {
+          if (scrolled < 499 ) {
             //console.log(scrolled)
-            setIsVisible("none");
-          } else {
             setIsVisible("grid");
+          } else {
+            setIsVisible("none");
           }
         }
         

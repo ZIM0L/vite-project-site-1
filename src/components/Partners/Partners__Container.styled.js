@@ -4,7 +4,6 @@ import styled from "styled-components";
 export const Partners__Container = styled.div`
     margin: 0 auto;
     width: 95%;
-    height: 32em;
 
     h1{
         padding: 1em 0;

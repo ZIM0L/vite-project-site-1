@@ -12,8 +12,8 @@ const GlobalStyle = createGlobalStyle`
         overflow-x: hidden;
         color: black;
         ${window.addEventListener('scroll', function() {
-            var body = document.body;
-            if (window.scrollY >= 2500) {
+            let body = document.body;
+            if (window.scrollY >= 2500 && window.scrollY <= 4200) {
               body.style.backdropFilter = 'invert(90%)  sepia(40%)';
               body.style.transition = 'backdrop-filter 0.5s ease-in-out';
               body.style.color = "#FFC6D0";
@@ -27,5 +27,4 @@ const GlobalStyle = createGlobalStyle`
     
 
 `
-
 export default GlobalStyle;

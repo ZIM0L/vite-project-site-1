@@ -27,9 +27,9 @@ export const NavMenu = styled.div`
         width: 7%;
         text-decoration: none;
         color: white;
+        transition: all 0.3s ease-out;
     }
-    @media screen and (max-height: 600px) {
-        height: 5vw;
-        color: red;
-      }
+    .Nav a:hover {
+        font-size: 1.2em;
+    }
 `
